@@ -4,3 +4,16 @@ body {
 	margin-left: 5%;
 	margin-right: 5%;
 }
+
+#resume_head {
+        font-family: Helvetica, Arial, sans-serif;
+	font-size: 25px;
+        text-align: center;
+}
+
+#resume_email {
+        font-family: Helvetica, Arial, sans-serif;
+	font-size: 20px;
+        color: blue;
+        text-align: center;
+}
