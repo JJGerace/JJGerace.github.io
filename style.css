@@ -5,6 +5,21 @@ body {
 	margin-right: 5%;
 }
 
+.embolden {
+        font-weight: bold;
+}
+
+.stress {
+        font-style: italic;
+}
+
+#courses {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
 #resume_head {
         font-family: Helvetica, Arial, sans-serif;
 	font-size: 25px;
